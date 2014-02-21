@@ -18,6 +18,7 @@ $(document).ready(function(){
 		}]
 	}).Load();
 
+
 	console.log('Page Loaded. Lets Do this!');
 
 }); 
