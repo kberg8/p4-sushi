@@ -1,9 +1,12 @@
 // Make Foundation Go!
+$(document).foundation();
 
-// Your Awesome Scripts!
+// My Awesome Scripts!
 $(document).ready(function(){
 
 	$("h4").lettering();
+
+	$('.fancybox').fancybox();
 
 	console.log('Page Loaded. Lets Do this!');
 
