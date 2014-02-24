@@ -12,8 +12,8 @@ $(document).ready(function(){
 	new Maplace({
 	show_markers: true,
 	locations: [{
-		lat: 47.659381, 
-		lon: -117.4236639,
+		lat: 47.6598832, 
+		lon: -117.4235781,
 		zoom: 18
 		}]
 	}).Load();
