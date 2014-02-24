@@ -16,7 +16,7 @@ input[type="search"] {
 	padding: 6.5px;
 }
 
-body {
+.index {
 	background: #333;
 	font-family: 'Maven Pro', sans-serif;
 }
